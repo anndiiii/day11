@@ -1,0 +1,33 @@
+h1 {
+    color: blue;
+    letter-spacing: 20px;
+    word-spacing: 20;
+}
+h2 {
+    text-decoration: overline;
+  }
+  
+  h3 {
+    text-decoration: line-through;
+  }
+  
+  h4 {
+    text-decoration: underline;
+  }
+  
+  p{
+    text-indent: 10px;
+    text-align: center;
+    writing-mode: vertical-lr;
+    font-family: 'Times New Roman', Times, ;
+  }
+ img{
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%)
+ } 
+a{
+    text-decoration: none;
+    color: aqua;
+}
+a:hover{
+    color: aquamarine;
+}
